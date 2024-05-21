@@ -68,7 +68,7 @@ body {
 
 .paddle {
   top: 0;
-  width: 5px;
+  width: 6px;
   position: absolute;
 }
 
@@ -83,6 +83,7 @@ body {
 }
 
 .score {
+  color: white;
   display: block;
   position: absolute;
   font-family: Arial, Helvetica, sans-serif;
